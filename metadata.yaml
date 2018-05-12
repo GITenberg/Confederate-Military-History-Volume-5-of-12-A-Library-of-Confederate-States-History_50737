@@ -1,16 +1,22 @@
 _repo: Confederate-Military-History-Volume-5-of-12-A-Library-of-Confederate-States-History_50737
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Evans, Clement Anselm
       gutenberg_agent_id: '46064'
       url: http://www.gutenberg.org/2009/agents/46064
+covers:
+- cover_type: archival
+  image_path: 50737-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Capers, Ellison
     gutenberg_agent_id: '46063'
     url: http://www.gutenberg.org/2009/agents/46063
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50737#Confederate-Military-History-Volume-5-of-12-A-Library-of-Confederate-States-History
 gutenberg_issued: '2015-12-21'
 gutenberg_type: Text
 identifiers:
